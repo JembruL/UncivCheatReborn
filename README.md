@@ -12,3 +12,4 @@ Addition:
 - Absolute Units Support
 
 Made on Unciv Version 4.19.17-patch2.
+Compatible ruleset: Civ V - Gods & Kings
