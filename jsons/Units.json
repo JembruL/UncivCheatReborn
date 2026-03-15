@@ -7,7 +7,7 @@
       "Unbuildable",
       "Uncapturable"
     ],
-    "movement": 5
+    "movement": 2
   },
   {
     "name": "Settler", //from boosted settler
@@ -27,9 +27,9 @@
   {
     "name": "Engineer", //enhanced better workers
     "unitType": "Civilian",
-    "movement": 5,
+    "movement": 4,
     "obsoleteTech": "Industrialization",
-	"requiredTech": "CheatMenu",
+	"requiredTech": "Unit",
     "replacementTextForUniques": "Super cheat worker with instant abilities",
     "uniques": [
       "Can build [Land] improvements on tiles",
@@ -51,38 +51,39 @@
   {
     "name": "Renovator", //from better workers
     "unitType": "Civilian",
-    "movement": 5,
+    "movement": 3,
     "cost": 50,
-    "requiredTech": "CheatMenu",
+    "requiredTech": "Unit",
     "replacementTextForUniques": "Can instantly remove Forests, Jungles or Marshes from tiles 5 times",
     "uniques": [
-      "Can instantly construct a [Remove Forest] improvement <[5] times> <after which this unit is consumed>",
-      "Can instantly construct a [Remove Jungle] improvement <[5] times> <after which this unit is consumed>",
-      "Can instantly construct a [Remove Marsh] improvement <[5] times> <after which this unit is consumed>",
+      "Can build [Land] improvements on tiles",
+	  "Can instantly construct a [Remove Forest] improvement",
+      "Can instantly construct a [Remove Jungle] improvement",
+      "Can instantly construct a [Remove Marsh] improvement",
 	  "Can instantly construct a [All Road] improvement"
     ]
   },
-  {
-    "name": "Civil Engineer", //from better workers
-    "unitType": "Civilian",
-    "movement": 5,
-    "cost": 150,
-    "requiredTech": "CheatMenu",
-    "uniques": [
-      "Can build [Land] improvements on tiles",
-	  "Can instantly construct a [All Road] improvement",
-      "[-33]% construction time for [All] improvements",
-      "[+1] Movement <after discovering [Combustion]>",
-      "[+1] Movement <after discovering [Mobile Tactics]>"
-    ]
-  },
+//  {
+//    "name": "Civil Engineer", //from better workers
+//    "unitType": "Civilian",
+//    "movement": 5,
+//    "cost": 150,
+//    "requiredTech": "CheatMenu",
+//    "uniques": [
+//      "Can build [Land] improvements on tiles",
+//	  "Can instantly construct a [All Road] improvement",
+//      "[-33]% construction time for [All] improvements",
+//      "[+1] Movement <after discovering [Combustion]>",
+//      "[+1] Movement <after discovering [Mobile Tactics]>"
+//    ]
+//  },
   {
     "name": "Aerodrome", //from better workers
     "unitType": "Air Base",
-    "movement": 5,
+    "movement": 2,
     "strength": 60,
     "cost": 250,
-    "requiredTech": "CheatMenu",
+    "requiredTech": "Constructing",
     "uniques": [
       "Limited to [5] per Civilization",
       "Cannot move",
@@ -97,10 +98,10 @@
   {
     "name": "Missile Silo", //from better workers
     "unitType": "Air Base",
-    "movement": 5,
+    "movement": 2,
     "strength": 60,
     "cost": 250,
-    "requiredTech": "CheatMenu",
+    "requiredTech": "Constructing",
     "uniques": [
       "Limited to [5] per Civilization",
       "Cannot move",

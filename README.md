@@ -7,11 +7,13 @@ Original Mods:
 - UncivCheatMeun by Tonedome
 - Better Workers by the-s-is-silent
 - Boosted Settler by Mechworks-all-day
+- Resource Recyclers by SpacedOutChicken
 
 Addition:
 - Added missing Icon & Sprites
-- Unitset Support: Absolute Units
+- Max EXP for barbarians increased
 - Infinity of distance city bombard
+- Unitset Support: Absolute Units
 
 Made on Unciv Version 4.19.17-patch2.
 Compatible ruleset: Civ V - Gods & Kings
