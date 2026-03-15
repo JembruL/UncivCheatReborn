@@ -58,7 +58,8 @@
     "uniques": [
       "Can instantly construct a [Remove Forest] improvement <[5] times> <after which this unit is consumed>",
       "Can instantly construct a [Remove Jungle] improvement <[5] times> <after which this unit is consumed>",
-      "Can instantly construct a [Remove Marsh] improvement <[5] times> <after which this unit is consumed>"
+      "Can instantly construct a [Remove Marsh] improvement <[5] times> <after which this unit is consumed>",
+	  "Can instantly construct a [All Road] improvement"
     ]
   },
   {
@@ -69,6 +70,7 @@
     "requiredTech": "CheatMenu",
     "uniques": [
       "Can build [Land] improvements on tiles",
+	  "Can instantly construct a [All Road] improvement",
       "[-33]% construction time for [All] improvements",
       "[+1] Movement <after discovering [Combustion]>",
       "[+1] Movement <after discovering [Mobile Tactics]>"
