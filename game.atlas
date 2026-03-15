@@ -1,0 +1,174 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Activation
+  rotate: false
+  xy: 628, 157
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Activation-1
+  rotate: false
+  xy: 628, 68
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Activation-2
+  rotate: false
+  xy: 731, 157
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aerodrome
+  rotate: false
+  xy: 731, 65
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Silo
+  rotate: false
+  xy: 731, 65
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aerodrome-1
+  rotate: false
+  xy: 834, 154
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Silo-1
+  rotate: false
+  xy: 834, 154
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aerodrome-2
+  rotate: false
+  xy: 906, 154
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Silo-2
+  rotate: false
+  xy: 906, 154
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Civil Engineer
+  rotate: false
+  xy: 803, 90
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Engineer
+  rotate: false
+  xy: 803, 90
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator
+  rotate: false
+  xy: 803, 90
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Civil Engineer-1
+  rotate: false
+  xy: 875, 90
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Engineer-1
+  rotate: false
+  xy: 875, 90
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator-1
+  rotate: false
+  xy: 875, 90
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Civil Engineer-2
+  rotate: false
+  xy: 628, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Engineer-2
+  rotate: false
+  xy: 628, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator-2
+  rotate: false
+  xy: 628, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Activation
+  rotate: false
+  xy: 4, 38
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Aerodrome
+  rotate: false
+  xy: 212, 38
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Silo
+  rotate: false
+  xy: 212, 38
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Civil Engineer
+  rotate: false
+  xy: 420, 38
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Engineer
+  rotate: false
+  xy: 420, 38
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Renovator
+  rotate: false
+  xy: 420, 38
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

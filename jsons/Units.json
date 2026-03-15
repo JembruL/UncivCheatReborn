@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Activation", //original uncheatmenu
+    "unitType": "Civilian",
+    "uniques": [
+      "[3] Free Technologies <by consuming this unit>",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "movement": 5
+  },
+  {
+    "name": "Settler", //from boosted settler
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 106,
+    "uniques": [
+      "Founds a new city",
+      "Excess Food converted to Production when under construction",
+      "Requires at least [2] population",
+      "[+3] Sight <before the [Classical era]>",
+      "[+2] Movement <before the [Classical era]>",
+      "Can see over obstacles <before the [Classical era]>"
+    ],
+    "hurryCostModifier": 20
+  },
+  {
+    "name": "Engineer", //enhanced better workers
+    "unitType": "Civilian",
+    "movement": 5,
+    "obsoleteTech": "Industrialization",
+	"requiredTech": "CheatMenu",
+    "replacementTextForUniques": "Super cheat worker with instant abilities",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Can instantly construct a [Farm] improvement",
+      "Can instantly construct a [Pasture] improvement",
+      "Can instantly construct a [Plantation] improvement",
+      "Can instantly construct a [Mine] improvement",
+      "Can instantly construct a [Quarry] improvement",
+      "Can instantly construct a [Trading post] improvement",
+      "Can instantly construct a [Camp] improvement",
+      "Can instantly construct a [Lumber mill] improvement",
+      "Can instantly construct a [Oil well] improvement",
+      "Can instantly construct a [All Road] improvement",
+      "Can instantly construct a [Fort] improvement",
+      "Automation is a primary action"
+    ],
+    "cost": 50
+  },
+  {
+    "name": "Renovator", //from better workers
+    "unitType": "Civilian",
+    "movement": 5,
+    "cost": 50,
+    "requiredTech": "CheatMenu",
+    "replacementTextForUniques": "Can instantly remove Forests, Jungles or Marshes from tiles 5 times",
+    "uniques": [
+      "Can instantly construct a [Remove Forest] improvement <[5] times> <after which this unit is consumed>",
+      "Can instantly construct a [Remove Jungle] improvement <[5] times> <after which this unit is consumed>",
+      "Can instantly construct a [Remove Marsh] improvement <[5] times> <after which this unit is consumed>"
+    ]
+  },
+  {
+    "name": "Civil Engineer", //from better workers
+    "unitType": "Civilian",
+    "movement": 5,
+    "cost": 150,
+    "requiredTech": "CheatMenu",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "[-33]% construction time for [All] improvements",
+      "[+1] Movement <after discovering [Combustion]>",
+      "[+1] Movement <after discovering [Mobile Tactics]>"
+    ]
+  },
+  {
+    "name": "Aerodrome", //from better workers
+    "unitType": "Air Base",
+    "movement": 5,
+    "strength": 60,
+    "cost": 250,
+    "requiredTech": "CheatMenu",
+    "uniques": [
+      "Limited to [5] per Civilization",
+      "Cannot move",
+      "Uncapturable",
+      "Unbuildable",
+      "Cannot be purchased",
+      "Can carry [5] [Aircraft] units",
+      "[+25]% Strength <vs [Air] units> <when defending>",
+      "[-100]% maintenance costs"
+    ]
+  },
+  {
+    "name": "Missile Silo", //from better workers
+    "unitType": "Air Base",
+    "movement": 5,
+    "strength": 60,
+    "cost": 250,
+    "requiredTech": "CheatMenu",
+    "uniques": [
+      "Limited to [5] per Civilization",
+      "Cannot move",
+      "Uncapturable",
+      "Unbuildable",
+      "Cannot be purchased",
+      "Can carry [5] [Missile] units",
+      "Invisible to non-adjacent units",
+      "[-100]% maintenance costs"
+    ]
+  }
+]
