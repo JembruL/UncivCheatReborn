@@ -81,28 +81,28 @@ BuildingIcons/Reduce Cost
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Resource Ext-1
+BuildingIcons/Resource+ 10%
   rotate: false
   xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Resource Ext-2
+BuildingIcons/Resource+ 20%
   rotate: false
   xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Resource Ext-3
+BuildingIcons/Resource+ 30%
   rotate: false
   xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Resource Ext-4
+BuildingIcons/Resource+ 40%
   rotate: false
   xy: 212, 193
   size: 100, 100
@@ -116,7 +116,7 @@ BuildingIcons/Strategic Resources
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Unit Battle
+BuildingIcons/Unit Exp
   rotate: false
   xy: 212, 193
   size: 100, 100
@@ -165,6 +165,34 @@ BuildingIcons/Cheat Wonder
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Ore Refinery
+  rotate: false
+  xy: 1284, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Reveal FOG
+  rotate: false
+  xy: 1500, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/CheatTech
+  rotate: false
+  xy: 744, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Construct
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Construct Unlocker
   rotate: false
   xy: 852, 401
@@ -200,13 +228,6 @@ BuildingIcons/Unit Unlocker
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Construction
-  rotate: false
-  xy: 852, 401
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 TechIcons/Experiment
   rotate: false
   xy: 852, 401
@@ -231,27 +252,6 @@ TechIcons/Resource
 TechIcons/Unit
   rotate: false
   xy: 852, 401
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Ore Refinery
-  rotate: false
-  xy: 1284, 401
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Reveal FOG
-  rotate: false
-  xy: 1500, 401
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TechIcons/CheatTech
-  rotate: false
-  xy: 744, 401
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
