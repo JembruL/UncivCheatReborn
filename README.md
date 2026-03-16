@@ -1,6 +1,6 @@
 # UncivCheatReborn
 
-A combined cheat/mod pack for **Unciv**, merging several popular mods with additional tweaks and enhancements.
+⚠️ A combined cheat/mod pack for **Unciv**, merging several popular mods with additional tweaks and enhancements.
 
 ⚠️ **Warning:** This mod significantly alters the game balance and is intended mainly for sandbox play, testing, or experimentation.
 
@@ -31,3 +31,4 @@ All credit goes to the original authors. This repository only compiles and light
 * Added FOW revealer building
 * Added tech icons
 * Added tile improvements info
+* Revise naming restructure for building

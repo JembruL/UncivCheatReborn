@@ -2,14 +2,62 @@
    {
       "name":"Exploration",
       "uniques":[
-         "[This Unit] gains [10] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
-         "Comment [This Unit gains [1] XP with a 20% chance upon discovering a tile]",
-         "[This Unit] gains [50] XP <upon discovering a [Natural Wonder] tile>",
-		 "[+1] Sight"
+         "[+1] Sight",
+		 "[This Unit] gains [2] XP <with [15]% chance> <upon discovering a [All] tile> <hidden from users>",
+         "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
+		 "Comment [This Unit gains [2] XP with a 15% chance and [15] XP upon discovering a tile & Natural Wonder]"
       ],
       "requiredTech":"CheatTech",
       "unitTypes":[
          "Scout"
+      ]
+   },
+   {
+      "name":"Land Exploration",
+      "uniques":[
+		 "[+1] Sight",
+		 "[This Unit] gains [2] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
+         "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
+		 "Comment [This Unit gains [2] XP with a 20% chance and [15] XP upon discovering a tile & Natural Wonder]"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Civilian",
+		 "Sword",
+		 "Gunpowder",
+		 "Archery",
+		 "Ranged Gunpowder",
+		 "Mounted",
+		 "Armored",
+		 "Siege",
+		 "Civilian Water",
+		 "Melee Water",
+		 "Ranged Water",
+		 "Submarine",
+		 "Aircraft Carrier",
+		 "Fighter",
+		 "Bomber",
+		 "Atomic Bomber",
+		 "Missile",
+		 "Helicopter",
+      ]
+   },
+   {
+      "name":"Aircraft Exploration",
+      "uniques":[
+		 "[+2] Sight",
+		 "[This Unit] gains [2] XP <with [25]% chance> <upon discovering a [All] tile> <hidden from users>",
+         "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
+		 "Comment [This Unit gains [2] XP with a 25% chance and [15] XP upon discovering a tile & Natural Wonder]"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+		 "Aircraft Carrier",
+		 "Fighter",
+		 "Bomber",
+		 "Atomic Bomber",
+		 "Missile",
+		 "Helicopter",
       ]
    },
    {
