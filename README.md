@@ -11,7 +11,6 @@ Original Mods:
 
 Addition:
 - Added missing Icon & Sprites
-- Max EXP for barbarians increased
 - Infinity of distance city bombard
 - Unitset Support: Absolute Units
 
