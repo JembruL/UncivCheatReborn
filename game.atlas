@@ -11,9 +11,198 @@ BuildingIcons/Biofuel Farm
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Ore Refinery
+BuildingIcons/CityStrength
   rotate: false
   xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ConstructingAll
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ConstructingBuilding
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ConstructingModifier
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ConstructingUnit
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ConstructingWonder
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cost
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ExperimentModifier
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/FreeTechnologies
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/GreatMultiple
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/InfiniteGold
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/On
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/OtherModifier
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/PopulationGrowth
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Public Works Administration
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ResourceModifier
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ResourceModifier-1
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ResourceModifier-2
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ResourceModifier-3
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/ResourceModifier-4
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/StrategicResources
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnitBattle
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnitModifier
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnitMove
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnitPower
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnitReward
+  rotate: false
+  xy: 736, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ore Refinery
+  rotate: false
+  xy: 844, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Start
+  rotate: false
+  xy: 952, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -27,7 +216,7 @@ TileSets/AbsoluteUnits/Units/Activation
   index: -1
 TileSets/AbsoluteUnits/Units/Activation-1
   rotate: false
-  xy: 844, 123
+  xy: 1060, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -41,105 +230,105 @@ TileSets/AbsoluteUnits/Units/Activation-2
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome
   rotate: false
-  xy: 1874, 139
+  xy: 1884, 139
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-1
   rotate: false
-  xy: 1960, 139
+  xy: 1060, 50
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-2
   rotate: false
-  xy: 844, 50
+  xy: 1146, 50
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer
   rotate: false
-  xy: 947, 123
+  xy: 1163, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer-1
   rotate: false
-  xy: 1050, 123
+  xy: 834, 15
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer-2
   rotate: false
-  xy: 1153, 123
+  xy: 1266, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer
   rotate: false
-  xy: 1256, 123
+  xy: 937, 15
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer-1
   rotate: false
-  xy: 1359, 123
+  xy: 1369, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer-2
   rotate: false
-  xy: 1462, 123
+  xy: 1472, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo
   rotate: false
-  xy: 930, 59
+  xy: 1970, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-1
   rotate: false
-  xy: 1002, 59
+  xy: 1232, 59
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-2
   rotate: false
-  xy: 1074, 59
+  xy: 1304, 59
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator
   rotate: false
-  xy: 1565, 123
+  xy: 1575, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-1
   rotate: false
-  xy: 1668, 123
+  xy: 1678, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-2
   rotate: false
-  xy: 1771, 123
+  xy: 1781, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
