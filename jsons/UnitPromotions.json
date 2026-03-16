@@ -1,0 +1,183 @@
+[
+   {
+      "name":"Exploration",
+      "uniques":[
+         "[This Unit] gains [10] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
+         "Comment [This Unit gains [1] XP with a 20% chance upon discovering a tile]",
+         "[This Unit] gains [50] XP <upon discovering a [Natural Wonder] tile>",
+		 "[+1] Sight"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ]
+   },
+   {
+      "name":"Dugouts I",
+      "uniques":[
+         "[+33]% Strength <vs [Ranged] units> <when defending>"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":27,
+      "row":1
+   },
+   {
+      "name":"Dugouts II",
+      "prerequisites":[
+         "Dugouts I"
+      ],
+      "uniques":[
+         "[+33]% Strength <vs [Ranged] units> <when defending>"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":27,
+      "row":2
+   },
+   {
+      "name":"Raid and Run",
+      "prerequisites":[
+         "Survivalism I",
+         "Scouting I"
+      ],
+      "uniques":[
+         "No movement cost to pillage"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":28,
+      "row":1
+   },
+   {
+      "name":"Assault Boats I",
+      "prerequisites":[
+         "Survivalism I",
+         "Scouting I"
+      ],
+      "uniques":[
+         "[+100]% Strength <when defending> <when [Embarked]>",
+         "[+1] Sight <when [Embarked]>"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":29,
+      "row":1
+   },
+   {
+      "name":"Assault Boats II",
+      "prerequisites":[
+         "Assault Boats I"
+      ],
+      "uniques":[
+         "[1] Movement point cost to embark",
+         "[1] Movement point cost to disembark"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":29,
+      "row":2
+   },
+   {
+      "name":"Rangefinder",
+      "prerequisites":[
+         "Survivalism III",
+         "Scouting III"
+      ],
+      "uniques":[
+         "[+1] Range"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":30,
+      "row":1
+   },
+   {
+      "name":"Rapid Fire",
+      "prerequisites":[
+         "Survivalism III",
+         "Scouting III"
+      ],
+      "uniques":[
+         "[+1] additional attacks per turn"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":31,
+      "row":1
+   },
+   {
+      "name":"Pass Without a Trace",
+      "prerequisites":[
+         "Survivalism II",
+         "Scouting II"
+      ],
+      "uniques":[
+         "Ignores Zone of Control"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":32,
+      "row":1
+   },
+   {
+      "name":"Covert Operations",
+      "prerequisites":[
+         "Survivalism III",
+         "Scouting III"
+      ],
+      "uniques":[
+         "May enter foreign tiles without open borders",
+         "Invisible to non-adjacent units"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":33,
+      "row":1
+   },
+   {
+      "name":"Elevation",
+      "prerequisites":[
+         "Survivalism II",
+         "Scouting II"
+      ],
+      "uniques":[
+         "Ranged attacks may be performed over obstacles"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":34,
+      "row":1
+   },
+   {
+      "name":"Marksmanship",
+      "uniques":[
+         "Can see invisible [Land] units",
+         "Can move after attacking",
+         "[+50]% Strength <vs [Gunpowder] units> <when attacking>",
+         "[+50]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+         "[-100]% Strength <vs cities> <when attacking>"
+      ],
+      "requiredTech":"CheatTech"
+   }
+]

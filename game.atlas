@@ -1,377 +1,699 @@
 
 game.png
-size: 2048, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Biofuel Farm
+BuildingIcons/Additional Tech+
   rotate: false
-  xy: 628, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/CityStrength
+BuildingIcons/City Strength+
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ConstructingAll
+BuildingIcons/Construct Building
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ConstructingBuilding
+BuildingIcons/Construct Unit
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ConstructingModifier
+BuildingIcons/Construct Wonder
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ConstructingUnit
+BuildingIcons/Construct+
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ConstructingWonder
+BuildingIcons/Gold+
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Cost
+BuildingIcons/Great Multiple
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ExperimentModifier
+BuildingIcons/Population Growth
   rotate: false
-  xy: 736, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/FreeTechnologies
-  rotate: false
-  xy: 736, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/GreatMultiple
-  rotate: false
-  xy: 736, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/InfiniteGold
-  rotate: false
-  xy: 736, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/On
-  rotate: false
-  xy: 736, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/OtherModifier
-  rotate: false
-  xy: 736, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/PopulationGrowth
-  rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Public Works Administration
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ResourceModifier
+BuildingIcons/Reduce Cost
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ResourceModifier-1
+BuildingIcons/Resource Ext-1
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ResourceModifier-2
+BuildingIcons/Resource Ext-2
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ResourceModifier-3
+BuildingIcons/Resource Ext-3
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/ResourceModifier-4
+BuildingIcons/Resource Ext-4
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/StrategicResources
+BuildingIcons/Strategic Resources
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/UnitBattle
+BuildingIcons/Unit Battle
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/UnitModifier
+BuildingIcons/Unit Move
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/UnitMove
+BuildingIcons/Unit Power
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/UnitPower
+BuildingIcons/Unit Reward
   rotate: false
-  xy: 736, 104
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/UnitReward
+BuildingIcons/Biofuel Farm
   rotate: false
-  xy: 736, 104
+  xy: 420, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cheat Statue
+  rotate: false
+  xy: 528, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cheat Wonder
+  rotate: false
+  xy: 636, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Construct Unlocker
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Experiment Unlocker
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Other Unlocker
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Resource Unlocker
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Unit Unlocker
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Construction
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Experiment
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Other
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Resource
+  rotate: false
+  xy: 852, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Unit
+  rotate: false
+  xy: 852, 401
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ore Refinery
   rotate: false
-  xy: 844, 104
+  xy: 1284, 401
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Start
+BuildingIcons/Reveal FOG
   rotate: false
-  xy: 952, 104
+  xy: 1500, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/CheatTech
+  rotate: false
+  xy: 744, 401
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Activation
   rotate: false
-  xy: 628, 15
+  xy: 4, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Activation-1
   rotate: false
-  xy: 1060, 123
+  xy: 212, 104
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Activation-2
   rotate: false
-  xy: 731, 15
+  xy: 420, 312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome
   rotate: false
-  xy: 1884, 139
+  xy: 629, 239
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-1
   rotate: false
-  xy: 1060, 50
+  xy: 715, 239
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-2
   rotate: false
-  xy: 1146, 50
+  xy: 801, 239
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer
   rotate: false
-  xy: 1163, 123
+  xy: 1824, 420
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer-1
   rotate: false
-  xy: 834, 15
+  xy: 107, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer-2
   rotate: false
-  xy: 1266, 123
+  xy: 523, 312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer
   rotate: false
-  xy: 937, 15
+  xy: 1927, 420
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer-1
   rotate: false
-  xy: 1369, 123
+  xy: 626, 312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer-2
   rotate: false
-  xy: 1472, 123
+  xy: 729, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Explorer
+  rotate: false
+  xy: 832, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter
+  rotate: false
+  xy: 832, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Explorer-1
+  rotate: false
+  xy: 935, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter-1
+  rotate: false
+  xy: 935, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Explorer-2
+  rotate: false
+  xy: 1038, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter-2
+  rotate: false
+  xy: 1038, 312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo
   rotate: false
-  xy: 1970, 148
+  xy: 959, 248
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-1
   rotate: false
-  xy: 1232, 59
+  xy: 1031, 248
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-2
   rotate: false
-  xy: 1304, 59
+  xy: 1103, 248
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator
   rotate: false
-  xy: 1575, 123
+  xy: 1141, 312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-1
   rotate: false
-  xy: 1678, 123
+  xy: 1244, 312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-2
   rotate: false
-  xy: 1781, 123
+  xy: 1347, 312
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter
+  rotate: false
+  xy: 1450, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter-1
+  rotate: false
+  xy: 1553, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter-2
+  rotate: false
+  xy: 1656, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper
+  rotate: false
+  xy: 320, 212
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops
+  rotate: false
+  xy: 320, 212
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper-1
+  rotate: false
+  xy: 423, 223
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops-1
+  rotate: false
+  xy: 423, 223
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper-2
+  rotate: false
+  xy: 526, 223
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops-2
+  rotate: false
+  xy: 526, 223
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Explorer
+  rotate: false
+  xy: 1667, 276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hunter
+  rotate: false
+  xy: 1667, 276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sharpshooter
+  rotate: false
+  xy: 1707, 276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sniper
+  rotate: false
+  xy: 1759, 307
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spec Ops
+  rotate: false
+  xy: 1759, 307
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Explorer
+  rotate: false
+  xy: 887, 248
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hunter
+  rotate: false
+  xy: 887, 248
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sharpshooter
+  rotate: false
+  xy: 1175, 248
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sniper
+  rotate: false
+  xy: 1247, 248
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spec Ops
+  rotate: false
+  xy: 1247, 248
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 UnitIcons/Activation
   rotate: false
-  xy: 4, 4
+  xy: 4, 301
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Aerodrome
   rotate: false
-  xy: 212, 4
+  xy: 4, 93
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Missile Silo
   rotate: false
-  xy: 212, 4
+  xy: 4, 93
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Civil Engineer
   rotate: false
-  xy: 420, 4
+  xy: 212, 301
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Engineer
   rotate: false
-  xy: 420, 4
+  xy: 212, 301
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Renovator
   rotate: false
-  xy: 420, 4
+  xy: 212, 301
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Explorer
+  rotate: false
+  xy: 1068, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hunter
+  rotate: false
+  xy: 1176, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sharpshooter
+  rotate: false
+  xy: 1608, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sniper
+  rotate: false
+  xy: 1716, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Assault Boats
+  rotate: false
+  xy: 1759, 343
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Covert Operations
+  rotate: false
+  xy: 960, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spec Ops
+  rotate: false
+  xy: 960, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dugouts
+  rotate: false
+  xy: 1319, 254
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Elevation
+  rotate: false
+  xy: 1377, 254
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Marksmanship
+  rotate: false
+  xy: 1435, 254
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pass Without a Trace
+  rotate: false
+  xy: 1392, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Raid and Run
+  rotate: false
+  xy: 1493, 254
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Rangefinder
+  rotate: false
+  xy: 1551, 254
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Rapid Fire
+  rotate: false
+  xy: 1609, 254
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1

@@ -1,18 +1,33 @@
 # UncivCheatReborn
 
-This is combined cheat/mod from UncivCheatMeun, Better Workers with enhancement, and Boosted Settler. Credit to all the Authors, not mine. Note that this will damage the game balance! ! !
+A combined cheat/mod pack for **Unciv**, merging several popular mods with additional tweaks and enhancements.
 
-I just compile and do some minor modifications.
-Original Mods:
-- UncivCheatMeun by Tonedome
-- Better Workers by the-s-is-silent
-- Boosted Settler by Mechworks-all-day
-- Resource Recyclers by SpacedOutChicken
+⚠️ **Warning:** This mod significantly alters the game balance and is intended mainly for sandbox play, testing, or experimentation.
 
-Addition:
-- Added missing Icon & Sprites
-- Infinity of distance city bombard
-- Unitset Support: Absolute Units
+## Compatibility
 
-Made on Unciv Version 4.19.17-patch2.
-Compatible ruleset: Civ V - Gods & Kings
+* **Unciv Version:** 4.19.17-patch2
+* **Ruleset:** Civ V – Gods & Kings
+
+## About
+
+This project combines multiple existing mods into a single package and applies minor adjustments and fixes.
+All credit goes to the original authors. This repository only compiles and lightly modifies their work.
+
+## Included Mods
+
+* **UncivCheatMenu** — by Tonedome
+* **Better Workers** — by there-is-silent
+* **Boosted Settler** — by Mechworks-all-day
+* **Resource Recyclers** — by SpacedOutChicken
+* **Scouting XP** — by karmaBonfire
+* **Scout Upgrade Line** — by AntiDerivative-90
+
+## Changes / Additions
+
+* Added missing icons and sprites
+* Infinite city bombard range
+* Unitset support for Absolute Units
+* Added FOW revealer building
+* Added tech icons
+* Added tile improvements info
