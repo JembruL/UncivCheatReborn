@@ -3,7 +3,7 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   schedule:
     - cron: '30 2 * * *'  # Run once per day
 
@@ -13,6 +13,7 @@ on:
 jobs:
   unciv-lint:
     runs-on: ubuntu-latest
+    env: FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Temporary workaround Node 24 Compatibility
     steps:
       - uses: actions/checkout@v4
       
