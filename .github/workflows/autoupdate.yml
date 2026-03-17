@@ -13,7 +13,8 @@ on:
 jobs:
   unciv-lint:
     runs-on: ubuntu-latest
-    env: FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Temporary workaround Node 24 Compatibility
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Temporary workaround Node 24 Compatibility
     steps:
       - uses: actions/checkout@v4
       
